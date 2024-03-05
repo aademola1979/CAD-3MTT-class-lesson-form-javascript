@@ -95,11 +95,7 @@ textarea:focus, input:focus{
     border: 2px solid rgba(0, 0, 250, 0.7);
 }
 
-#demo{
-    min-width: 100vw;
-    min-height: 350px;
-    background-color: white;
-}
+
 
 @media(min-width:768px) {
     form{
