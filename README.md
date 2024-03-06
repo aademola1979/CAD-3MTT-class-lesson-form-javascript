@@ -2,7 +2,7 @@
 
 ## Javascript lesson
 
-### Welcome
+### Welcome!
 
 During the lesson of 24th February, each learner created an HTML form.
 See the link to the repository of that lesson [here](https://github.com/aademola1979/form-practice){:target="_blank"}
